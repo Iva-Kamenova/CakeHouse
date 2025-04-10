@@ -25,7 +25,7 @@ This project was created as part of a coursework assignment for a web developmen
 
 Created by Iva Boneva
 University: Technical University of Sofia
-Course: Second
+Course: Internet-based technologies
 Year: 2025
 
 ---
